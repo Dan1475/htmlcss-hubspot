@@ -398,3 +398,47 @@ footer{
   line-height: 2;
   margin: 20px;
 }
+.social{
+  width: 100%;
+}
+.social .fab{
+  float: left;
+  width: 20%;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.middle-footer{
+  width: 80%;
+  margin:auto;
+  color: #CBD6E2;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 35px;
+}
+.middle-footer span{
+  padding: 15px 30px;
+  font-size: 15px;
+}
+footer hr{
+  width: 80%;
+  margin: auto;
+  color: #CBD6E2;
+}
+.last-footer{
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  color: #CBD6E2;
+}
+.last-left{
+  float: left;
+  width: 30%;
+}
+.last-right{
+  float: right;
+  width: 70%;
+  text-align: right;
+}
+.last-right span{
+  margin-left: 25px;
+}
